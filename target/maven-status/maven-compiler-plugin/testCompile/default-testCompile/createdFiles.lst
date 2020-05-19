@@ -1,0 +1,5 @@
+shopee/keywords/LoginKeywords.class
+shopee/t_pages/UserHomePage.class
+shopee/t_pages/IndexPage.class
+shopee/steps/LoginSteps.class
+shopee/CucumberTestSuite.class
