@@ -1,5 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Login - FE" skipped="0" tests="1" time="25.5" timestamp="2020-05-20 12:11:44"><testcase name="As an user I want to login the application successfully"><failure message="[Login is not successfully! ] expected:&lt;...ight: Mercury Tours:[ ]&quot;&gt; but was:&lt;...ight: Mercury Tours:[]&quot;&gt;" type="java.lang.AssertionError">[Login is not successfully! ] expected:&lt;...ight: Mercury Tours:[ ]"&gt; but was:&lt;...ight: Mercury Tours:[]"&gt;</failure><system-err>[Login is not successfully! ] expected:&lt;...ight: Mercury Tours:[ ]"&gt; but was:&lt;...ight: Mercury Tours:[]"&gt;
-shopee.steps.LoginSteps.assert_the_login_is_successfully(LoginSteps.java:30)
-shopee.keywords.LoginKeywords.assert_user_login_successfully(LoginKeywords.java:28)
-✽.the user can log in to application successfully(src/test/resources/features/login/fe_login.feature:7)
-</system-err></testcase></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Login - FE" skipped="0" tests="1" time="18.26" timestamp="2020-05-20 12:20:07"><testcase name="As an user I want to login the application successfully"/></testsuite>

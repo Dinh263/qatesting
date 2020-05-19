@@ -24,7 +24,7 @@ public class LoginKeywords {
 
     @Then("the user can log in to application successfully")
     public void assert_user_login_successfully(){
-        String expectedPageTitle = "Find a Flight: Mercury Tours: ";
+        String expectedPageTitle = "Find a Flight: Mercury Tours:";
         loginSteps.assert_the_login_is_successfully(expectedPageTitle);
     }
 

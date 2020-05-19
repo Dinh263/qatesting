@@ -1,18 +1,18 @@
-# Created at 2020-05-20T00:11:41.631
+# Created at 2020-05-20T00:20:04.926
 OpenJDK 64-Bit Server VM warning: Ignoring option MaxPermSize; support was removed in 8.0
 
-# Created at 2020-05-20T00:11:42.450
+# Created at 2020-05-20T00:20:05.839
 WARNING: An illegal reflective access operation has occurred
 
-# Created at 2020-05-20T00:11:42.450
+# Created at 2020-05-20T00:20:05.839
 WARNING: Illegal reflective access by com.google.inject.internal.cglib.core.$ReflectUtils$1 (file:/Users/dinhnguyen/.m2/repository/com/google/inject/guice/4.2.2/guice-4.2.2.jar) to method java.lang.ClassLoader.defineClass(java.lang.String,byte[],int,int,java.security.ProtectionDomain)
 
-# Created at 2020-05-20T00:11:42.450
+# Created at 2020-05-20T00:20:05.840
 WARNING: Please consider reporting this to the maintainers of com.google.inject.internal.cglib.core.$ReflectUtils$1
 
-# Created at 2020-05-20T00:11:42.451
+# Created at 2020-05-20T00:20:05.841
 WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
 
-# Created at 2020-05-20T00:11:42.451
+# Created at 2020-05-20T00:20:05.841
 WARNING: All illegal access operations will be denied in a future release
 
